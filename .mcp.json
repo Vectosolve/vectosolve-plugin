@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vectosolve": {
+      "type": "http",
+      "url": "https://vectosolve.com/api/mcp"
+    }
+  }
+}

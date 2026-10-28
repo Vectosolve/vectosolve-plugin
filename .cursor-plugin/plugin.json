@@ -1,0 +1,14 @@
+{
+  "name": "vectosolve",
+  "description": "Turn PNG, JPG, WebP or GIF images into SVG, DXF or EPS vector files, with machine-ready output for laser cutters, CNC routers and Cricut.",
+  "version": "1.2.1",
+  "author": {
+    "name": "VectoSolve",
+    "email": "contact@vectosolve.com"
+  },
+  "homepage": "https://vectosolve.com/integrations/mcp",
+  "repository": "https://github.com/Vectosolve/vectosolve-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["svg", "dxf", "eps", "vectorize", "image-to-vector", "laser-cutting", "cnc", "cricut"]
+}
